@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define SIZE 100
+#define SIZE 1000
 #define PRECISE 8
 #define MAXIMUM 1E17
 
